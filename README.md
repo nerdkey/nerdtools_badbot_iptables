@@ -15,4 +15,4 @@ Designed with flexability in mind, existing firewall rules will be saved before 
 
 ###FAQ###
 How often is it recommended to run this script?
-  Every 15 minutes
+> Every 15 minutes
