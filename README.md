@@ -14,5 +14,5 @@ Designed with flexability in mind, existing firewall rules will be saved before 
 * iptables
 
 ###FAQ###
-How often is it recommended to run this script?
-> Every 15 minutes
+> Q. How often is it recommended to run this script?
+> A. Every 15 minutes
